@@ -1,4 +1,4 @@
-# [Letícia Brasil] <img src="https://i.imgflip.com/62iu3a.gif" width="150px">
+# [Letícia Brasil] <img src="https://i.imgflip.com/62iu3a.gif" width="200px">
 
 Eu sou <strong>Letícia Brasil</strong>, <strong></strong> Gosto de dormir
 - 🚀 Atualmente estou aprendendo: <strong>Computação</strong> 
