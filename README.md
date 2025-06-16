@@ -1,6 +1,5 @@
-# [Letícia Brasil] <img src="https://i.imgflip.com/62iu3a.gif" width="500px">
-
-Eu sou <strong>Letícia Brasil</strong>, <strong></strong> Gosto de dormir
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUya3Z4MW1rZ2V3M3NwOXN5ZThnNmZnNzE5Y3Z0b2hremFxNWIwdnNpZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ciQqMS4vcJZ4iZNpQl/
+Eu sou <strong>Letícia Brasil</strong>, <strong></strong> Gosto de dormir 
 - 🚀 Atualmente estou aprendendo: <strong>Computação</strong> 
 - 💬 Pergunte-me sobre: <strong>Cultura pop, GEEK/NERD</strong>
 - 📣 Nós podemos falar em: <strong>Português e Iglês</strong>
