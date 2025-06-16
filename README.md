@@ -3,4 +3,4 @@
 Eu sou <strong>Letícia Brasil</strong>, <strong></strong> Gosto de dormir 
 - 🚀 Atualmente estou aprendendo: <strong>Inglês e ADS</strong> 
 - 💬 Pergunte-me sobre: <strong>Cultura pop, GEEK/NERD</strong>
-- 📣 Nós podemos falar em: <strong>Português e Iglês</strong>
+- 📣 Nós podemos falar em: <strong>Português e Inglês</strong>
